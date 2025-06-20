@@ -1,11 +1,11 @@
 ````markdown
-# DNS Nameserver Lookup Tool
+DNS Nameserver Lookup Tool
 
 This is a simple Python tool to perform DNS nameserver lookups using the [`dnspython`](https://www.dnspython.org/) library.
 
 It queries the **NS (Nameserver)** records for a given domain and prints the results.
 
-## 📦 Installation
+📦 Installation
 
 Make sure you have Python 3 installed, then install the required package:
 
