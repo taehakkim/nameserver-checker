@@ -11,7 +11,7 @@ Make sure you have Python 3 installed, then install the required package:
 
 ```bash
 pip install dnspython
-````
+```
 
 ## 🚀 Usage
 
