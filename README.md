@@ -1,7 +1,3 @@
-Here’s a professional and clear `README.md` file for your GitHub repository that includes a description, installation instructions, usage, and other standard sections:
-
----
-
 ````markdown
 # DNS Nameserver Lookup Tool
 
@@ -67,9 +63,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Made with ❤️ using dnspython
 
-```
-
----
-
-Let me know if you'd like this README tailored further for a more advanced version (e.g., CLI support, Flask/Django integration, Docker support).
 ```
