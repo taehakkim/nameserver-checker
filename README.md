@@ -1,17 +1,21 @@
+Here’s a professional and clear `README.md` file for your GitHub repository that includes a description, installation instructions, usage, and other standard sections:
+
+---
+
 ````markdown
-DNS Nameserver Lookup Tool
+# DNS Nameserver Lookup Tool
 
 This is a simple Python tool to perform DNS nameserver lookups using the [`dnspython`](https://www.dnspython.org/) library.
 
 It queries the **NS (Nameserver)** records for a given domain and prints the results.
 
-📦 Installation
+## 📦 Installation
 
 Make sure you have Python 3 installed, then install the required package:
 
 ```bash
 pip install dnspython
-```
+````
 
 ## 🚀 Usage
 
@@ -63,4 +67,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Made with ❤️ using dnspython
 
+```
+
+---
+
+Let me know if you'd like this README tailored further for a more advanced version (e.g., CLI support, Flask/Django integration, Docker support).
 ```
